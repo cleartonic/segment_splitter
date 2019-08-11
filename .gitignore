@@ -1,0 +1,13 @@
+output/*
+*.png
+*.mp4
+*.flv
+*.mkv
+__pycache__/*
+notes.txt
+test_files/*
+build/*
+dist/*
+output/*
+test_files/*
+segment_splitter.spec
